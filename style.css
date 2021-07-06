@@ -39,10 +39,10 @@ border-radius: 5px;
     }
   .block{
     box-shadow: 10px 10px 40px #e0dbdb;
-    margin-left: 10%;
+    margin-left: 7%;
     margin-right: 2%;
     padding-left: 25px;
-    padding-right: 35px;
+    padding-right: 20px;
     padding-top: 20px;
     padding-bottom: 10px;
     border-radius: 20px;
@@ -58,10 +58,14 @@ border-radius: 5px;
       text-align: center;
       
   }
-  
-  #white-color{
+  #footer-white{
       color: white;
   }
+   #white-color{
+      color: white;
+  }
+  
+  
       
       
 
